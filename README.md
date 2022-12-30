@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on projects of data analysis
 - 📫 How to reach me andregiron.20221@poli.ufrj.br
 
+This doesn't take into account the work done in forks, organizations, or private repos.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alobogiron)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 alobogiron/alobogiron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
