@@ -6,7 +6,7 @@
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=alobogiron&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobogiron&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alobogiron&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobogiron&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!---
