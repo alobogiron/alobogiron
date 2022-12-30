@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on projects of data analysis
 - 📫 How to reach me andregiron.20221@poli.ufrj.br
 
-This doesn't take into account the work done in forks, organizations, or private repos.
-
 | <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alobogiron&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobogiron&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
