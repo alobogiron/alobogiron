@@ -4,8 +4,12 @@
 - 💞️ I’m looking to collaborate on projects of data analysis
 - 📫 How to reach me andregiron.20221@poli.ufrj.br
 
-| <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alobogiron&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobogiron&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+
+| <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alobogiron&show_icons=true&theme=buefy&hide_border=true" alt="" /></a> | <a href="https://github.com/alobogiron"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alobogiron&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
 <!---
 alobogiron/alobogiron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
