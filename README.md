@@ -5,6 +5,9 @@
 - 📫 How to reach me andregiron.20221@poli.ufrj.br
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alobogiron)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 alobogiron/alobogiron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
