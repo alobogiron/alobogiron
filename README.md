@@ -7,10 +7,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alobogiron)](https://github.com/anuraghazra/github-readme-stats)
 
-⁠"Em política, meu caro, sabe tão bem quanto eu,  
-não existem homens, mas ideias; não existem sentimentos, mas interesses;  
-em política, ninguém mata um homem: suprime-se um obstáculo. Ponto final."  
-~Alexandre Dumas
+“To learn is not to know; there are the learners and the learned.  
+Memory makes the one, philosophy the others.”  
+― Alexandre Dumas, The Count of Monte Cristo
 
 
 
