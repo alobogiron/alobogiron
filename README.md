@@ -9,7 +9,7 @@
 
 “*To learn is not to know; there are the learners and the learned.  
 Memory makes the one, philosophy the others.*”  
-― **Alexandre Dumas**, The Count of Monte Cristo
+― **Alexandre Dumas**, *The Count of Monte Cristo*
 
 
 
